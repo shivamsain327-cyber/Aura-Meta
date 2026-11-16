@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuraMate</string>
+    <string name="subtitle_ready">Ready • Hinglish AI</string>
+    <string name="subtitle_thinking">Soch rahi hoon…</string>
+    <string name="subtitle_speaking">Bol rahi hoon…</string>
+    <string name="hero_title">Namaste! Main Aura hoon</string>
+    <string name="hero_subtitle">Bolkar ya likhkar commands dein — Alarm, Timer, WhatsApp, Apps, Search ya koi bhi sawaal.</string>
+    <string name="composer_placeholder">Kuch bhi boliye ya likhiye…</string>
+    <string name="cd_aura_avatar">AuraMate AI orb avatar</string>
+    <string name="cd_voice_toggle">Toggle voice reply</string>
+    <string name="cd_commands_guide">Open apps and Hinglish commands</string>
+    <string name="cd_customize_settings">Customize name, voice, and theme</string>
+    <string name="cd_clear_chat">Start new conversation</string>
+    <string name="cd_mic_button">Speak command in Hinglish</string>
+    <string name="cd_send_button">Send message</string>
+    <string name="cd_stop_speaking">Stop speaking</string>
+    <string name="cd_replay_voice">Speak this reply aloud</string>
+    <string name="cd_language_switch">Switch voice recognition language</string>
+    <string name="contacts_banner_title">Contacts permission chahiye</string>
+    <string name="contacts_banner_body">WhatsApp par naam se contact dhoondhne ke liye Contacts access dein.</string>
+    <string name="contacts_grant_action">Allow Contacts</string>
+    <string name="commands_sheet_title">Apps &amp; Hinglish Commands</string>
+    <string name="commands_sheet_subtitle">Sabhi installed apps kholein ya kisi command par tap karein:</string>
+    <string name="customize_sheet_title">Customize Assistant</string>
+    <string name="customize_sheet_subtitle">Assistant ka naam, awaaz aur theme apne hisaab se badlein:</string>
+    <string name="retry_label">Retry</string>
+    <string name="speech_unavailable">Speech recognition is device par available nahi hai.</string>
+    <string name="accessibility_service_description">Lets AuraMate perform your requested voice/text screen commands (Back, Home, Scroll, Tap, and Type) across installed apps.</string>
+</resources>
